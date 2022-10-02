@@ -4,7 +4,7 @@ SEOTitle: 小庆哥的博客 | Arthur's Blog
 header-img: img/home-bg.jpg
 email: arthur.gzh@gmail.com
 description: "这里是 @arthur 的个人博客，分享学习与生活 | 要做一个有 swag 的程序员"
-keyword: "Machine Learning, Python3, Finance, ML Infra, "
+keyword: "Machine Learning, ML, ML Infra, Python3, Bash, Z Shell, Airflow, RabbitMQ, Finance, Bond Pricing"
 url: "https://gzhang71.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
