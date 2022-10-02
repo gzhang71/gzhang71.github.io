@@ -8,6 +8,7 @@ tags:
     - Jenkins
     - CICD
     - Infra
+    - Study Notes
 ---
 
 Continuous Integrition: 保证项目功能在服务器可以运行，local所得即server所得
