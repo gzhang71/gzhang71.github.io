@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: arthur.gzh@gmail.com
 description: "这里是 @arthur 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
 keyword: "Machine Learning, Python3, Finance, ML Infra, "
-url: "https://guoqingzhang.com" # your host, for absolute URL
+url: "https://gzhang71.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
+# weibo_username: huxpro
+# zhihu_username: huxpro
+github_username: gzhang71
+# twitter_username: huxpro
 #facebook_username:  huxpro
 linkedin_username:  guoqingzhang
 
@@ -70,6 +70,7 @@ netease_comment: false
 
 # Google Analytics
 #ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
+ga_track_id: "G-WP927QGYT3"
 ga_domain: guoqingzhang.com
 
 # Sidebar settings
