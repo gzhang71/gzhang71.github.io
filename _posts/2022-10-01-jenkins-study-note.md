@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "Jenkins Study Note"
+title:        "Jenkins Study Notes"
 author:       "Arthur Zhang"
 header-style: text
 catalog:      true
